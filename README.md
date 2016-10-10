@@ -28,4 +28,4 @@ for k in KEYWORDS:
 
 License
 -------
-MIT License see License File.
+MIT License see license file.
