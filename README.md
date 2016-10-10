@@ -15,7 +15,7 @@ Just copy the functions into your file or import the function keywords_in_contex
 
 Example
 -------
-text.png
+![](https://github.com/3ngthrust/Keywords-in-Context/blob/readme-edits/text.png)
 ```python
 KEYWORDS = ["Sed", "lorem ipsum", "quo", "recusandae", "doloribus"]
 
@@ -24,7 +24,7 @@ result_text = keywords_in_context(TEXT, KEYWORDS)
 for k in KEYWORDS:
     result_text = find_and_replace(result_text, k, "\x1b[34m"+k+"\x1b[0m")
 ```
-result.png
+![](https://github.com/3ngthrust/Keywords-in-Context/blob/readme-edits/result.png)
 
 License
 -------
