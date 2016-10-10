@@ -2,9 +2,9 @@
 A small keywords in context (KWIC) python implementation with sentence recognition.
 Features
 --------
-* Summerize a larger text around keywords with a fixed amount of words before and after each keyword
-* Summerize a larger text around keywords with a maximum amount of words before and after each keyword unless a new sentence beginns or ends.
-* Ignore definied abbreviations which dont mark the beginning or end of a sentence.
+* Summarize a larger text around keywords with a fixed amount of words before and after each keyword
+* Summarize a larger text around keywords with a maximum amount of words before and after each keyword unless a new sentence begins or ends
+* Ignore defined abbreviations which don't mark the beginning or end of a sentence
 * Works with strings containing multiple words as "keyword"
 * Works with a list of several keywords
 
@@ -28,4 +28,4 @@ result.png
 
 License
 -------
-MIT Licence see Licence.txt
+MIT License see License.txt
