@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author: @3ngthrust
-# Licensed under the terms of the MIT License see LICENSE.txt for Details.
+# Licensed under the terms of the MIT License see LICENE for Details.
 
 def cut_to_sentence(text, keyword, keywordindex):
     """ Cuts the sentence around a keyword out of the text
